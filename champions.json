@@ -1,0 +1,3191 @@
+{
+    "Aatrox": {
+        "title": "the Darkin Blade",
+        "region": [
+            "Runeterra"
+        ],
+        "roles": [
+            "Fighter"
+        ],
+        "releaseYear": 2013,
+        "gender": "Male",
+        "resource": "Blood Well",
+        "rangeType": "Melee",
+        "species": [
+            "Darkin"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Aatrox.png"
+    },
+    "Ahri": {
+        "title": "the Nine-Tailed Fox",
+        "region": [
+            "Ionia"
+        ],
+        "roles": [
+            "Mage",
+            "Assassin"
+        ],
+        "releaseYear": 2011,
+        "gender": "Female",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Vastaya"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Ahri.png"
+    },
+    "Akali": {
+        "title": "the Rogue Assassin",
+        "region": [
+            "Ionia"
+        ],
+        "roles": [
+            "Assassin"
+        ],
+        "releaseYear": 2010,
+        "gender": "Female",
+        "resource": "Energy",
+        "rangeType": "Ranged",
+        "species": [
+            "Human"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Akali.png"
+    },
+    "Akshan": {
+        "title": "the Rogue Sentinel",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Marksman",
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akshan_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Akshan.png"
+    },
+    "Alistar": {
+        "title": "the Minotaur",
+        "region": [
+            "Runeterra"
+        ],
+        "roles": [
+            "Tank",
+            "Support"
+        ],
+        "releaseYear": 2009,
+        "gender": "Male",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Minotaur"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Alistar.png"
+    },
+    "Ambessa": {
+        "title": "Matriarch of War",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Energy",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ambessa_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Ambessa.png"
+    },
+    "Amumu": {
+        "title": "the Sad Mummy",
+        "region": [
+            "Shurima"
+        ],
+        "roles": [
+            "Tank",
+            "Support"
+        ],
+        "releaseYear": 2009,
+        "gender": "Male",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Yordle"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Amumu.png"
+    },
+    "Anivia": {
+        "title": "the Cryophoenix",
+        "region": [
+            "Freljord"
+        ],
+        "roles": [
+            "Mage"
+        ],
+        "releaseYear": 2009,
+        "gender": "Female",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Spirit"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Anivia.png"
+    },
+    "Annie": {
+        "title": "the Dark Child",
+        "region": [
+            "Noxus"
+        ],
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "releaseYear": 2009,
+        "gender": "Female",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Human"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Annie.png"
+    },
+    "Aphelios": {
+        "title": "the Weapon of the Faithful",
+        "region": [
+            "Targon"
+        ],
+        "roles": [
+            "Marksman"
+        ],
+        "releaseYear": 2019,
+        "gender": "Male",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Human"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Aphelios.png"
+    },
+    "Ashe": {
+        "title": "the Frost Archer",
+        "region": [
+            "Freljord"
+        ],
+        "roles": [
+            "Marksman",
+            "Support"
+        ],
+        "releaseYear": 2009,
+        "gender": "Female",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Iceborn"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Ashe.png"
+    },
+    "AurelionSol": {
+        "title": "The Star Forger",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/AurelionSol.png"
+    },
+    "Aurora": {
+        "title": "the Witch Between Worlds",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage",
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aurora_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Aurora.png"
+    },
+    "Azir": {
+        "title": "the Emperor of the Sands",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage",
+            "Marksman"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Azir.png"
+    },
+    "Bard": {
+        "title": "the Wandering Caretaker",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Support",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Bard.png"
+    },
+    "Belveth": {
+        "title": "the Empress of the Void",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Belveth_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Belveth.png"
+    },
+    "Blitzcrank": {
+        "title": "the Great Steam Golem",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Tank",
+            "Support"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Blitzcrank.png"
+    },
+    "Brand": {
+        "title": "the Burning Vengeance",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Brand.png"
+    },
+    "Braum": {
+        "title": "the Heart of the Freljord",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Tank",
+            "Support"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Braum.png"
+    },
+    "Briar": {
+        "title": "the Restrained Hunger",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Fury",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Briar_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Briar.png"
+    },
+    "Caitlyn": {
+        "title": "the Sheriff of Piltover",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Marksman"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Caitlyn.png"
+    },
+    "Camille": {
+        "title": "the Steel Shadow",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Camille.png"
+    },
+    "Cassiopeia": {
+        "title": "the Serpent's Embrace",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Cassiopeia.png"
+    },
+    "Chogath": {
+        "title": "the Terror of the Void",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Tank",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Chogath.png"
+    },
+    "Corki": {
+        "title": "the Daring Bombardier",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Marksman",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Corki.png"
+    },
+    "Darius": {
+        "title": "the Hand of Noxus",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Darius.png"
+    },
+    "Diana": {
+        "title": "Scorn of the Moon",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Diana.png"
+    },
+    "Draven": {
+        "title": "the Glorious Executioner",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Marksman"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Draven.png"
+    },
+    "DrMundo": {
+        "title": "the Madman of Zaun",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Tank",
+            "Fighter"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "None",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/DrMundo.png"
+    },
+    "Ekko": {
+        "title": "the Boy Who Shattered Time",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Assassin",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Ekko.png"
+    },
+    "Elise": {
+        "title": "the Spider Queen",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Assassin",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Elise.png"
+    },
+    "Evelynn": {
+        "title": "Agony's Embrace",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Assassin",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Evelynn.png"
+    },
+    "Ezreal": {
+        "title": "the Prodigal Explorer",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Marksman",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Ezreal.png"
+    },
+    "Fiddlesticks": {
+        "title": "the Ancient Fear",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiddlesticks_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Fiddlesticks.png"
+    },
+    "Fiora": {
+        "title": "the Grand Duelist",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Fiora.png"
+    },
+    "Fizz": {
+        "title": "the Tidal Trickster",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Assassin",
+            "Fighter"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Fizz.png"
+    },
+    "Galio": {
+        "title": "the Colossus",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Tank",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Galio.png"
+    },
+    "Gangplank": {
+        "title": "the Saltwater Scourge",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Gangplank.png"
+    },
+    "Garen": {
+        "title": "The Might of Demacia",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "None",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Garen.png"
+    },
+    "Gnar": {
+        "title": "the Missing Link",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Rage",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gnar_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Gnar.png"
+    },
+    "Gragas": {
+        "title": "the Rabble Rouser",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Gragas.png"
+    },
+    "Graves": {
+        "title": "the Outlaw",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Marksman"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Graves.png"
+    },
+    "Gwen": {
+        "title": "The Hallowed Seamstress",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gwen_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Gwen.png"
+    },
+    "Hecarim": {
+        "title": "the Shadow of War",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Hecarim.png"
+    },
+    "Heimerdinger": {
+        "title": "the Revered Inventor",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Heimerdinger.png"
+    },
+    "Hwei": {
+        "title": "the Visionary",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hwei_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Hwei.png"
+    },
+    "Illaoi": {
+        "title": "the Kraken Priestess",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Illaoi.png"
+    },
+    "Irelia": {
+        "title": "the Blade Dancer",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Irelia.png"
+    },
+    "Ivern": {
+        "title": "the Green Father",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Support",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Ivern.png"
+    },
+    "Janna": {
+        "title": "the Storm's Fury",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Support",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Janna.png"
+    },
+    "JarvanIV": {
+        "title": "the Exemplar of Demacia",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/JarvanIV_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/JarvanIV.png"
+    },
+    "Jax": {
+        "title": "Grandmaster at Arms",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Jax.png"
+    },
+    "Jayce": {
+        "title": "the Defender of Tomorrow",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Marksman",
+            "Fighter"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Jayce.png"
+    },
+    "Jhin": {
+        "title": "the Virtuoso",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Marksman",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Jhin.png"
+    },
+    "Jinx": {
+        "title": "the Loose Cannon",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Marksman"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Jinx.png"
+    },
+    "Kaisa": {
+        "title": "Daughter of the Void",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Marksman",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Kaisa.png"
+    },
+    "Kalista": {
+        "title": "the Spear of Vengeance",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Marksman"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kalista_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Kalista.png"
+    },
+    "Karma": {
+        "title": "the Enlightened One",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Karma.png"
+    },
+    "Karthus": {
+        "title": "the Deathsinger",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karthus_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Karthus.png"
+    },
+    "Kassadin": {
+        "title": "the Void Walker",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Assassin",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Kassadin.png"
+    },
+    "Katarina": {
+        "title": "the Sinister Blade",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Assassin",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "None",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Katarina.png"
+    },
+    "Kayle": {
+        "title": "the Righteous",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage",
+            "Marksman"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Kayle.png"
+    },
+    "Kayn": {
+        "title": "the Shadow Reaper",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Kayn.png"
+    },
+    "Kennen": {
+        "title": "the Heart of the Tempest",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Energy",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kennen_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Kennen.png"
+    },
+    "Khazix": {
+        "title": "the Voidreaver",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Khazix_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Khazix.png"
+    },
+    "Kindred": {
+        "title": "The Eternal Hunters",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Marksman"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kindred_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Kindred.png"
+    },
+    "Kled": {
+        "title": "the Cantankerous Cavalier",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Courage",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kled_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Kled.png"
+    },
+    "KogMaw": {
+        "title": "the Mouth of the Abyss",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Marksman",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KogMaw_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/KogMaw.png"
+    },
+    "KSante": {
+        "title": "the Pride of Nazumah",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Tank",
+            "Fighter"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KSante_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/KSante.png"
+    },
+    "Leblanc": {
+        "title": "the Deceiver",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Assassin",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Leblanc.png"
+    },
+    "LeeSin": {
+        "title": "the Blind Monk",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Energy",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/LeeSin.png"
+    },
+    "Leona": {
+        "title": "the Radiant Dawn",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Tank",
+            "Support"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Leona.png"
+    },
+    "Lillia": {
+        "title": "the Bashful Bloom",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lillia_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Lillia.png"
+    },
+    "Lissandra": {
+        "title": "the Ice Witch",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lissandra_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Lissandra.png"
+    },
+    "Lucian": {
+        "title": "the Purifier",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Marksman",
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Lucian.png"
+    },
+    "Lulu": {
+        "title": "the Fae Sorceress",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Support",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Lulu.png"
+    },
+    "Lux": {
+        "title": "the Lady of Luminosity",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Lux.png"
+    },
+    "Malphite": {
+        "title": "Shard of the Monolith",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Tank",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Malphite.png"
+    },
+    "Malzahar": {
+        "title": "the Prophet of the Void",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Malzahar.png"
+    },
+    "Maokai": {
+        "title": "the Twisted Treant",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Tank",
+            "Support"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Maokai.png"
+    },
+    "MasterYi": {
+        "title": "the Wuju Bladesman",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Assassin",
+            "Fighter"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/MasterYi.png"
+    },
+    "Mel": {
+        "title": "the Soul's Reflection",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mel_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Mel.png"
+    },
+    "Milio": {
+        "title": "The Gentle Flame",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Support",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Milio_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Milio.png"
+    },
+    "MissFortune": {
+        "title": "the Bounty Hunter",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Marksman",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/MissFortune.png"
+    },
+    "MonkeyKing": {
+        "title": "the Monkey King",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MonkeyKing_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/MonkeyKing.png"
+    },
+    "Mordekaiser": {
+        "title": "the Iron Revenant",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Shield",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Mordekaiser.png"
+    },
+    "Morgana": {
+        "title": "the Fallen",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Morgana.png"
+    },
+    "Naafiri": {
+        "title": "the Hound of a Hundred Bites",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Assassin",
+            "Fighter"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Naafiri_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Naafiri.png"
+    },
+    "Nami": {
+        "title": "the Tidecaller",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Support",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Nami.png"
+    },
+    "Nasus": {
+        "title": "the Curator of the Sands",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Nasus.png"
+    },
+    "Nautilus": {
+        "title": "the Titan of the Depths",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Tank",
+            "Support"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Nautilus.png"
+    },
+    "Neeko": {
+        "title": "the Curious Chameleon",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Neeko.png"
+    },
+    "Nidalee": {
+        "title": "the Bestial Huntress",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Assassin",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Nidalee.png"
+    },
+    "Nilah": {
+        "title": "the Joy Unbound",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nilah_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Nilah.png"
+    },
+    "Nocturne": {
+        "title": "the Eternal Nightmare",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Nocturne.png"
+    },
+    "Nunu": {
+        "title": "the Boy and His Yeti",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Tank",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nunu_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Nunu.png"
+    },
+    "Olaf": {
+        "title": "the Berserker",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Olaf.png"
+    },
+    "Orianna": {
+        "title": "the Lady of Clockwork",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Orianna.png"
+    },
+    "Ornn": {
+        "title": "The Fire below the Mountain",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Tank"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ornn_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Ornn.png"
+    },
+    "Pantheon": {
+        "title": "the Unbreakable Spear",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Pantheon.png"
+    },
+    "Poppy": {
+        "title": "Keeper of the Hammer",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Tank",
+            "Fighter"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Poppy.png"
+    },
+    "Pyke": {
+        "title": "the Bloodharbor Ripper",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Support",
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Pyke.png"
+    },
+    "Qiyana": {
+        "title": "Empress of the Elements",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Qiyana.png"
+    },
+    "Quinn": {
+        "title": "Demacia's Wings",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Marksman",
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Quinn.png"
+    },
+    "Rakan": {
+        "title": "The Charmer",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Support"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rakan_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Rakan.png"
+    },
+    "Rammus": {
+        "title": "the Armordillo",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Tank"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Rammus.png"
+    },
+    "RekSai": {
+        "title": "the Void Burrower",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Rage",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/RekSai_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/RekSai.png"
+    },
+    "Rell": {
+        "title": "the Iron Maiden",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Tank",
+            "Support"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rell_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Rell.png"
+    },
+    "Renata": {
+        "title": "the Chem-Baroness",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Support",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renata_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Renata.png"
+    },
+    "Renekton": {
+        "title": "the Butcher of the Sands",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Fury",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Renekton.png"
+    },
+    "Rengar": {
+        "title": "the Pridestalker",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Assassin",
+            "Fighter"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Ferocity",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Rengar.png"
+    },
+    "Riven": {
+        "title": "the Exile",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "None",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Riven.png"
+    },
+    "Rumble": {
+        "title": "the Mechanized Menace",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Heat",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rumble_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Rumble.png"
+    },
+    "Ryze": {
+        "title": "the Rune Mage",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Ryze.png"
+    },
+    "Samira": {
+        "title": "the Desert Rose",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Marksman",
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Samira_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Samira.png"
+    },
+    "Sejuani": {
+        "title": "Fury of the North",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Tank"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Sejuani.png"
+    },
+    "Senna": {
+        "title": "the Redeemer",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Support",
+            "Marksman"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Senna.png"
+    },
+    "Seraphine": {
+        "title": "the Starry-Eyed Songstress",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Support",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Seraphine.png"
+    },
+    "Sett": {
+        "title": "the Boss",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Grit",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Sett.png"
+    },
+    "Shaco": {
+        "title": "the Demon Jester",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Shaco.png"
+    },
+    "Shen": {
+        "title": "the Eye of Twilight",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Tank"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Energy",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Shen.png"
+    },
+    "Shyvana": {
+        "title": "the Half-Dragon",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Fury",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Shyvana.png"
+    },
+    "Singed": {
+        "title": "the Mad Chemist",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Tank",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Singed_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Singed.png"
+    },
+    "Sion": {
+        "title": "The Undead Juggernaut",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Tank",
+            "Fighter"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Sion.png"
+    },
+    "Sivir": {
+        "title": "the Battle Mistress",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Marksman"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Sivir.png"
+    },
+    "Skarner": {
+        "title": "the Primordial Sovereign",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Tank",
+            "Fighter"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Skarner_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Skarner.png"
+    },
+    "Smolder": {
+        "title": "the Fiery Fledgling",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Marksman",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Smolder_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Smolder.png"
+    },
+    "Sona": {
+        "title": "Maven of the Strings",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Support",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Sona.png"
+    },
+    "Soraka": {
+        "title": "the Starchild",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Support",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Soraka.png"
+    },
+    "Swain": {
+        "title": "the Noxian Grand General",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Swain.png"
+    },
+    "Sylas": {
+        "title": "the Unshackled",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage",
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Sylas.png"
+    },
+    "Syndra": {
+        "title": "the Dark Sovereign",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Syndra.png"
+    },
+    "TahmKench": {
+        "title": "The River King",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Tank",
+            "Support"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TahmKench_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/TahmKench.png"
+    },
+    "Taliyah": {
+        "title": "the Stoneweaver",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taliyah_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Taliyah.png"
+    },
+    "Talon": {
+        "title": "the Blade's Shadow",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Talon.png"
+    },
+    "Taric": {
+        "title": "the Shield of Valoran",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Support",
+            "Tank"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taric_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Taric.png"
+    },
+    "Teemo": {
+        "title": "the Swift Scout",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Marksman",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Teemo.png"
+    },
+    "Thresh": {
+        "title": "the Chain Warden",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Support",
+            "Tank"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Thresh.png"
+    },
+    "Tristana": {
+        "title": "the Yordle Gunner",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Marksman",
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Tristana.png"
+    },
+    "Trundle": {
+        "title": "the Troll King",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Trundle_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Trundle.png"
+    },
+    "Tryndamere": {
+        "title": "the Barbarian King",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Fury",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Tryndamere.png"
+    },
+    "TwistedFate": {
+        "title": "the Card Master",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage",
+            "Marksman"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TwistedFate_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/TwistedFate.png"
+    },
+    "Twitch": {
+        "title": "the Plague Rat",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Marksman",
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Twitch.png"
+    },
+    "Udyr": {
+        "title": "the Spirit Walker",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Udyr_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Udyr.png"
+    },
+    "Urgot": {
+        "title": "the Dreadnought",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Urgot.png"
+    },
+    "Varus": {
+        "title": "the Arrow of Retribution",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Marksman",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Varus.png"
+    },
+    "Vayne": {
+        "title": "the Night Hunter",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Marksman",
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Vayne.png"
+    },
+    "Veigar": {
+        "title": "the Tiny Master of Evil",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Veigar.png"
+    },
+    "Velkoz": {
+        "title": "the Eye of the Void",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Velkoz.png"
+    },
+    "Vex": {
+        "title": "the Gloomist",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Vex.png"
+    },
+    "Vi": {
+        "title": "the Piltover Enforcer",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Vi.png"
+    },
+    "Viego": {
+        "title": "The Ruined King",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "None",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viego_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Viego.png"
+    },
+    "Viktor": {
+        "title": "the Herald of the Arcane",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viktor_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Viktor.png"
+    },
+    "Vladimir": {
+        "title": "the Crimson Reaper",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage",
+            "Fighter"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Crimson Rush",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Vladimir.png"
+    },
+    "Volibear": {
+        "title": "the Relentless Storm",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Volibear.png"
+    },
+    "Warwick": {
+        "title": "the Uncaged Wrath of Zaun",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Warwick.png"
+    },
+    "Xayah": {
+        "title": "the Rebel",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Marksman"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xayah_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Xayah.png"
+    },
+    "Xerath": {
+        "title": "the Magus Ascendant",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Xerath.png"
+    },
+    "XinZhao": {
+        "title": "the Seneschal of Demacia",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/XinZhao_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/XinZhao.png"
+    },
+    "Yasuo": {
+        "title": "the Unforgiven",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Flow",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Yasuo.png"
+    },
+    "Yone": {
+        "title": "the Unforgotten",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Flow",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Yone.png"
+    },
+    "Yorick": {
+        "title": "Shepherd of Souls",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Yorick.png"
+    },
+    "Yuumi": {
+        "title": "the Magical Cat",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Support",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yuumi_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Yuumi.png"
+    },
+    "Zac": {
+        "title": "the Secret Weapon",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Tank",
+            "Fighter"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "None",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Zac.png"
+    },
+    "Zed": {
+        "title": "the Master of Shadows",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Assassin"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Energy",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Zed.png"
+    },
+    "Zeri": {
+        "title": "The Spark of Zaun",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Marksman"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Melee",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zeri_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Zeri.png"
+    },
+    "Ziggs": {
+        "title": "the Hexplosives Expert",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ziggs_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Ziggs.png"
+    },
+    "Zilean": {
+        "title": "the Chronokeeper",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Support",
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zilean_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Zilean.png"
+    },
+    "Zoe": {
+        "title": "the Aspect of Twilight",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Zoe.png"
+    },
+    "Zyra": {
+        "title": "Rise of the Thorns",
+        "region": [
+            "Unknown"
+        ],
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "releaseYear": "Unknown",
+        "gender": "Unknown",
+        "resource": "Mana",
+        "rangeType": "Ranged",
+        "species": [
+            "Unknown"
+        ],
+        "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_0.jpg",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Zyra.png"
+    }
+}
