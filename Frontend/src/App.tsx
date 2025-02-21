@@ -1,22 +1,23 @@
 import { useState } from "react";
 import "./App.css";
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import HomePage from "./Pages/Home";
+import ClassicGame from "./Pages/Classic";
+import QuotePage from "./Pages/Quote";
 
 function App() {
   return (
     <>
-      <>
-        <h1>test</h1>
-      </>
-      {/* <Router>
+      <Router>
         <Routes>
-          <Route path="/" element={} />
-          // <Route path="/home" element={<HomePage />} />
-          // <Route path="/YoutubeDownloader" element={<YtConverter />} />
-          // <Route path="/ipLocator" element={<IpLocator />} />
-          // <Route path="/QRsite" element={<QrCodePage />} />
+          <Route path="/" element={<HomePage />} />
+          <Route path="/Classic" element={<ClassicGame />} />
+          <Route path="/Quote" element={<QuotePage />} />
+          <Route path="/Ability" element={<ClassicGame />} />
+          <Route path="/Emoji" element={<ClassicGame />} />
+          <Route path="/Splash" element={<ClassicGame />} />
         </Routes>
-      </Router> */}
+      </Router>
     </>
   );
 }
