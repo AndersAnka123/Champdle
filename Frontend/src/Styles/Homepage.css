@@ -2,10 +2,13 @@
 body{
     width: 100dvw;
     height: 100dvh;
-    background: url("https://loldle.net/img/WallpaperDark.20d3d6f6.webp");
-    background-size: contain;
-    background-position: center;
-    background-repeat: repeat-x;
+    background-color: #242424;
+    background-image: radial-gradient(black 3px, transparent 0);
+    background-size: 40px 40px;
+}
+
+* a {
+    color: white;
 }
 
 #root {
@@ -26,6 +29,16 @@ body{
     padding-bottom: 2rem;
 }
 
+.GameItemLink{
+    display: block;
+    text-decoration: none;
+    width: 90%;
+}
+
+.GameIcon{
+    
+}
+
 .GameSections{
     display: flex;
     flex-direction: column;
@@ -35,31 +48,22 @@ body{
     box-sizing: border-box;
     height: 100%;
     gap: .5rem;
+    width: 100%;
 }
 
-.GameItem {
-    position: relative;
-    cursor: pointer;
-    color: rgba(255, 255, 255, 0.932);
-    transition: ease 100ms;
+.GameItem{
+    width: 100%;
 }
 
-.GameItem:hover{
-    scale: 1.01;
-}
 
-.GameTextWrapper{
-    position: absolute;
-    top: .5rem;
-    left: 6rem;
-}
 
-.GameHeader{
-    margin: 0;
-    font-size: 1.7rem;
-}
 
-.GameDesc{
-    margin: 0;
-}
+
+
+
+
+
+
+
+
 
