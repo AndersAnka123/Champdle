@@ -5,6 +5,7 @@ import getRandomChamp from "../Hooks/GetRandomChamp";
 let ClassicGame = () => {
   let [Dropdown, IsDropdown] = useState(false);
   let [userinput, setUserInput] = useState();
+  let [AutoFill, setAutoFill] = useState("");
 
   function HandleUserInput(e: any) {
     setUserInput(e.target.value);
@@ -15,7 +16,7 @@ let ClassicGame = () => {
   }
 
   function GuessChamp() {
-    console.log(getRandomChamp);
+    alert(userinput);
   }
   return (
     <div className="ClassicContent">
@@ -23,7 +24,12 @@ let ClassicGame = () => {
         <input
           type="text"
           className="champInput"
-          onChange={HandleUserInput}
+          onKeyDown={HandleUserInput}
+          onKeyUp={(e) => {
+            if (e.key === "Enter") {
+              GuessChamp();
+            }
+          }}
           onBlur={() => {
             setTimeout(() => {
               IsDropdown(false);
@@ -31,13 +37,22 @@ let ClassicGame = () => {
           }}
           placeholder="Enter champ"
         />
-        <button className="GuessBtn">Guess</button>
+        <button className="GuessBtn" onClick={GuessChamp}>
+          Guess
+        </button>
         {Dropdown && (
           <ul className="champList">
             {dummyList.map((item: any, index: number) => {
               if (item.Name.includes(userinput)) {
                 return (
-                  <li key={index} className="listItem" onClick={GuessChamp}>
+                  <li
+                    key={index}
+                    className="listItem"
+                    onClick={() => {
+                      setAutoFill(item.Name);
+                      GuessChamp();
+                    }}
+                  >
                     {item.Name}
                   </li>
                 );
@@ -57,22 +72,13 @@ export default ClassicGame;
 let dummyList = [
   {
     Name: "Kallista",
-    img: "Test",
-  },
-  {
-    Name: "Vayne",
-    img: "Test",
-  },
-  {
-    Name: "Bard",
-    img: "Test",
-  },
-  {
-    Name: "Brand",
-    img: "Test",
-  },
-  {
-    Name: "Rek sai",
-    img: "Test",
+    Gender: "Female",
+    Lanes: "Bottom",
+    Species: "Undead",
+    Resource: "Mana",
+    Range_Type: "Ranged",
+    Regions: ["Shadow isles", "Camavor"],
+    relese_Year: 2014,
+    img: "https://ddragon.leagueoflegends.com/cdn/15.4.1/img/champion/Kalista.png",
   },
 ];
