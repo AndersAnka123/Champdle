@@ -2,7 +2,7 @@
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-
+import json
 
 app = FastAPI()
 print("Running server on port 8000")
@@ -23,10 +23,15 @@ app.add_middleware(
 
 @app.get("/getNewChamp")
 def read_root():
-    return {"Test"}
+    return getnewChamp()
 
 
 
-
+def getnewChamp():
+    with open('champions.json', 'r', encoding='utf-8') as file:
+        data = json.load(file)
+    
+    # print(data)
+    return data
 
 

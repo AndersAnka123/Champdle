@@ -76,3 +76,14 @@
 .listItem:hover {
     background-color: #242424;
 }
+
+.champListItem{
+    font-size: 1.5rem;
+    font-family: monospace;
+    padding: 1rem;
+
+}
+
+.champListItem:hover{
+    background-color: #242424;
+}

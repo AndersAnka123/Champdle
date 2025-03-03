@@ -57,7 +57,7 @@
     "Akshan": {
         "title": "the Rogue Sentinel",
         "region": [
-            "Unknown"
+            "Shurima"
         ],
         "roles": [
             "Marksman",
@@ -1554,7 +1554,7 @@
         "splashArt": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Milio_0.jpg",
         "icon": "https://ddragon.leagueoflegends.com/cdn/15.3.1/img/champion/Milio.png"
     },
-    "MissFortune": {
+    "Miss Fortune": {
         "title": "the Bounty Hunter",
         "region": [
             "Unknown"
