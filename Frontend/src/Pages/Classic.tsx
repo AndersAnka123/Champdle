@@ -1,11 +1,42 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import "../Styles/Classic.css";
-import getRandomChamp from "../Hooks/GetRandomChamp";
+import championsData from "../assets/champions.json";
 
 let ClassicGame = () => {
   let [Dropdown, IsDropdown] = useState(false);
-  let [userinput, setUserInput] = useState();
-  let [AutoFill, setAutoFill] = useState("");
+  let [userinput, setUserInput] = useState("");
+  let [guessedChamp, setGuessedChamp] = useState("");
+  let [selectedChamp, setSelectedChamp] = useState("");
+  const [data, setData] = useState(null);
+  const [loadingm, setloading] = useState(true);
+  const [error, setError] = useState(null);
+  const [randomChamp, setRandomChamp] = useState(null);
+
+  function getRandomChamp() {
+    let champKeys = Object.keys(championsData); // Get champion names
+    let champLength = champKeys.length;
+
+    if (champLength === 0) return;
+
+    let randIndex = Math.floor(Math.random() * champLength);
+    let randomChampName = champKeys[randIndex]; // Get a random champion name
+    let randomChamp = championsData[randomChampName]; // Get champion details
+  }
+
+  // Example usage
+  console.log(getRandomChamp());
+  let url = "http://localhost:8000/getNewChamp";
+  useEffect(() => {
+    let fetchData = async () => {
+      setloading(true);
+      let response = await fetch(url);
+      const result = await response.json();
+      setData(result);
+    };
+    fetchData();
+  }, [0]);
+
+  // console.log(data);
 
   function HandleUserInput(e: any) {
     setUserInput(e.target.value);
@@ -24,12 +55,7 @@ let ClassicGame = () => {
         <input
           type="text"
           className="champInput"
-          onKeyDown={HandleUserInput}
-          onKeyUp={(e) => {
-            if (e.key === "Enter") {
-              GuessChamp();
-            }
-          }}
+          onKeyUp={HandleUserInput}
           onBlur={() => {
             setTimeout(() => {
               IsDropdown(false);
@@ -37,7 +63,13 @@ let ClassicGame = () => {
           }}
           placeholder="Enter champ"
         />
-        <button className="GuessBtn" onClick={GuessChamp}>
+        <button
+          className="GuessBtn"
+          onClick={() => {
+            setGuessedChamp(userinput);
+            GuessChamp();
+          }}
+        >
           Guess
         </button>
         {Dropdown && (
@@ -49,11 +81,11 @@ let ClassicGame = () => {
                     key={index}
                     className="listItem"
                     onClick={() => {
-                      setAutoFill(item.Name);
-                      GuessChamp();
+                      setGuessedChamp(item.Name);
+                      setTimeout(GuessChamp, 200);
                     }}
                   >
-                    {item.Name}
+                    {item.Name.toLowerCase()}
                   </li>
                 );
               }
@@ -71,7 +103,7 @@ export default ClassicGame;
 
 let dummyList = [
   {
-    Name: "Kallista",
+    Name: "kallista",
     Gender: "Female",
     Lanes: "Bottom",
     Species: "Undead",
@@ -79,6 +111,7 @@ let dummyList = [
     Range_Type: "Ranged",
     Regions: ["Shadow isles", "Camavor"],
     relese_Year: 2014,
-    img: "https://ddragon.leagueoflegends.com/cdn/15.4.1/img/champion/Kalista.png",
+    img:
+      "https://ddragon.leagueoflegends.com/cdn/15.4.1/img/champion/Kalista.png",
   },
 ];
