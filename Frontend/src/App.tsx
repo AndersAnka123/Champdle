@@ -11,7 +11,7 @@ function App() {
       <Router>
         <Routes>
           <Route path="/" element={<HomePage />} />
-          <Route path="/Classic" element={<ClassicGame />} />
+          <Route path="/classic" element={<ClassicGame />} />
           <Route path="/Quote" element={<QuotePage />} />
           <Route path="/Ability" element={<ClassicGame />} />
           <Route path="/Emoji" element={<ClassicGame />} />
