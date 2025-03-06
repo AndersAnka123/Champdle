@@ -1,47 +1,15 @@
 import { useEffect, useState } from "react";
 import "../Styles/Classic.css";
+import getChampsFunction from "../Hooks/GetRandomChamp";
 
 let ClassicGame = () => {
   const [userGuess, setUserGuess] = useState(""); // Handling user inputs from keyboard and <li> onclick
   const [Dropdown, setDropdown] = useState(false); // Handles dropdown visibility
-  const [champions, setChampions] = useState<string[]>([]);
-  const [randomChamp, setRandomChamp] = useState<string | null>(null);
   const [guesses, setGuesses] = useState<string[]>([]);
 
   useEffect(() => {
-    let fetchChampions = async () => {
-      try {
-        const response = await fetch(
-          "https://ddragon.leagueoflegends.com/cdn/14.4.1/data/en_US/champion.json"
-        );
-        const data = await response.json();
-        const champNames: any = Object.keys(data.data);
-        setChampions(champNames);
-
-        setRandomChamp(
-          champNames[Math.floor(Math.random() * champNames.length)]
-        );
-      } catch (error) {
-        console.error("Error fetching champions:", error);
-      }
-    };
-    fetchChampions();
-  }, [null]);
-  console.log(champions);
-
-  const handleGuess = () => {
-    if (!userGuess.trim()) return;
-    setGuesses([...guesses, userGuess]);
-
-    if (userGuess.toLowerCase() === randomChamp?.toLowerCase()) {
-      alert("Correct champion");
-    } else {
-      alert("Wrong guess try again");
-    }
-    setUserGuess("");
-  };
-
-  const HandleList = () => {};
+    getChampsFunction();
+  });
 
   return (
     <div className="ClassicContent">
@@ -52,7 +20,7 @@ let ClassicGame = () => {
           className="champInput"
           onFocus={() => setDropdown(true)}
           onChange={(e) => setUserGuess(e.target.value)} // Update state when user types
-          onKeyDown={(e) => e.key === "Enter" && handleGuess()}
+          // onKeyDown={(e) => e.key === "Enter" && handleGuess()}
           onBlur={() => {
             setTimeout(() => {
               setDropdown(false);
@@ -63,7 +31,7 @@ let ClassicGame = () => {
         <button className="GuessBtn" onClick={() => {}}>
           Guess
         </button>
-        {Dropdown && champions.length > 0 && (
+        {/* {Dropdown && champions.length > 0 && (
           <ul className="champList">
             {Object.keys(champions[0]) // Get all champion names
               .filter((champ) =>
@@ -82,7 +50,7 @@ let ClassicGame = () => {
                 </li>
               ))}
           </ul>
-        )}
+        )} */}
       </div>
 
       <ul className="GuessedChamps"></ul>
