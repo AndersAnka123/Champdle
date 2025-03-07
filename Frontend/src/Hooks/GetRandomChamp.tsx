@@ -1,37 +1,40 @@
 import { useEffect, useState } from "react";
 
-function getChampsFunction() {
-  let [randomChamp, setRandomChamp] = useState(""); // Random champ
-  let [champList, setChampList] = useState<string[]>([]); // Lista med alla champ namn.
+const API_URL =
+  "https://ddragon.leagueoflegends.com/cdn/14.4.1/data/en_US/champion.json";
+
+function useChamps(url: string = API_URL) {
+  const [randomChamp, setRandomChamp] = useState<string>(""); // Random champ
+  const [champList, setChampList] = useState<string[]>([]); // List of champions
+  const [loading, setLoading] = useState<boolean>(true);
+  const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    let fetchChampions = async () => {
+    const fetchChampions = async () => {
       try {
-        const response = await fetch(
-          "https://ddragon.leagueoflegends.com/cdn/14.4.1/data/en_US/champion.json"
+        setLoading(true);
+        const res = await fetch(url);
+        const data = await res.json();
+        const champNames: string[] = Object.keys(data.data);
+        setChampList(champNames);
+        setRandomChamp(
+          champNames[Math.floor(Math.random() * champNames.length)]
         );
-        const data = await response.json(); // Fånga svart av anropet
-        const ChampNames: any = Object.keys(data.data); // Gå igenom varje objects namn och göra det till en variabel
-        console.log(ChampNames);
-
-        let selectRandomChamp = () => {
-          setRandomChamp(
-            ChampNames[Math.floor(Math.random() * ChampNames.length)]
-          ); // Så ut en random champ
-        };
-
-        selectRandomChamp();
-      } catch (error) {
-        console.log("Something went wrong" + error);
+      } catch (err) {
+        setError("Failed to fetch champion data");
+      } finally {
+        setLoading(false);
       }
-      return setRandomChamp;
     };
+
     fetchChampions();
-  });
-  console.log(randomChamp);
+  }, [url]);
+
+  return { champList, randomChamp, loading, error };
 }
 
-export default getChampsFunction();
+export default useChamps;
+
 // useEffect(() => {
 //   let fetchChampions = async () => {
 //     try {

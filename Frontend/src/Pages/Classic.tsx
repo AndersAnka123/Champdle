@@ -1,15 +1,13 @@
 import { useEffect, useState } from "react";
 import "../Styles/Classic.css";
-import getChampsFunction from "../Hooks/GetRandomChamp";
+import ChampsComponent from "../Components/champList";
 
 let ClassicGame = () => {
   const [userGuess, setUserGuess] = useState(""); // Handling user inputs from keyboard and <li> onclick
   const [Dropdown, setDropdown] = useState(false); // Handles dropdown visibility
   const [guesses, setGuesses] = useState<string[]>([]);
 
-  useEffect(() => {
-    getChampsFunction();
-  });
+  const guessChampion = () => {};
 
   return (
     <div className="ClassicContent">
@@ -31,26 +29,7 @@ let ClassicGame = () => {
         <button className="GuessBtn" onClick={() => {}}>
           Guess
         </button>
-        {/* {Dropdown && champions.length > 0 && (
-          <ul className="champList">
-            {Object.keys(champions[0]) // Get all champion names
-              .filter((champ) =>
-                champ.toLowerCase().includes(userGuess.toLowerCase())
-              ) // Filter based on input
-              .map((champ) => (
-                <li
-                  key={champ}
-                  className="champListItem"
-                  onClick={() => {
-                    setUserGuess(champ);
-                    handleGuess;
-                  }}
-                >
-                  {champ}
-                </li>
-              ))}
-          </ul>
-        )} */}
+        {Dropdown && <ChampsComponent />}
       </div>
 
       <ul className="GuessedChamps"></ul>
