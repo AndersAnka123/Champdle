@@ -8,6 +8,7 @@ function useChamps(url: string = API_URL) {
   const [champList, setChampList] = useState<string[]>([]); // List of champions
   const [loading, setLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
+  const [wholeList, setWholeList] = useState<string[]>([]);
 
   useEffect(() => {
     const fetchChampions = async () => {
@@ -15,10 +16,16 @@ function useChamps(url: string = API_URL) {
         setLoading(true);
         const res = await fetch(url);
         const data = await res.json();
-        const champNames: string[] = Object.keys(data.data);
+
+        setWholeList(data);
+        const champNames: string[] = Object.keys(data.data).map(
+          (key) => data.data[key].name
+        );
         setChampList(champNames);
         setRandomChamp(
-          champNames[Math.floor(Math.random() * champNames.length)]
+          champNames[
+            Math.floor(Math.random() * champNames.length)
+          ].toLowerCase()
         );
       } catch (err) {
         setError("Failed to fetch champion data");

@@ -1,31 +1,33 @@
-import useChamps from "../Hooks/GetRandomChamp";
+// import useChamps from "../Hooks/GetRandomChamp";
 
-function onChampionClick(champ: string) {}
+// function onChampionClick(champ: string) {
+//   alert("ggfdgfd");
+// }
 
-const randomChamp = useChamps();
+// // const randomChamp = useChamps();
 
-const ChampsComponent: React.FC = () => {
-  const { champList, loading, error } = useChamps();
+// const ChampsComponent: React.FC = () => {
+//   const { champList, loading, error } = useChamps();
 
-  if (loading) return <p>Loading champions...</p>;
-  if (error) return <p>Error: {error}</p>;
+//   // if (loading) return <p>Loading champions...</p>;
+//   // if (error) return <p>Error: {error}</p>;
 
-  console.log(randomChamp);
+//   // console.log(randomChamp);
 
-  return (
-    <ul className="champList">
-      {Object.keys(champList) // Get all champion names
-        .map((champ) => (
-          <li
-            key={champ}
-            className="champListItem"
-            onClick={() => onChampionClick(champ)}
-          >
-            {champ}
-          </li>
-        ))}
-    </ul>
-  );
-};
+//   return (
+//     <ul className="champList">
+//       {Object.keys(champList) // Get all champion names
+//         .map((champ) => (
+//           <li
+//             key={champ}
+//             className="champListItem"
+//             onClick={() => onChampionClick(champ)}
+//           >
+//             {champ[]}
+//           </li>
+//         ))}
+//     </ul>
+//   );
+// };
 
-export default ChampsComponent;
+// export default ChampsComponent;
